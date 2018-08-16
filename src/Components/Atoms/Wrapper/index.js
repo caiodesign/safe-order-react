@@ -1,8 +1,8 @@
 import Styled from 'styled-components';
 
 const Wrapper = Styled.div`
-  width: 100%;
-  display: flex;
+    display: block;
+    width: 100%;
 `;
 
 export default Wrapper;
